@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourgithubusername/movie-recommendation-system.git
+git clone (https://github.com/khushia3/MovieRecommendationSystem)
 
 Navigate to the project directory:
 
